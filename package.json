@@ -1,0 +1,17 @@
+{
+    "name": "friendfinder",
+    "version": "1.0.0",
+    "description": "Survey app for finding people with similar interests",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Scott Lehman",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.4"
+    },
+    "engine": {
+        "node": "5.3.0"
+    }
+}
